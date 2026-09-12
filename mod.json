@@ -1,0 +1,138 @@
+{
+    "id": "cybertac_sfx",
+    "name": "CyberTac: Tactical Sci-Fi SFX",
+    "version": "1.0.0",
+    "author": "Circuit 04 Audio Lab",
+    "description": "Высокотехнологичный тактический звуковой пак для Circuit 04. Полностью обновляет аудиосистему: голографические клики интерфейса, шаги экзоскелета с микро-сервоприводами, плазменные выстрелы порталгана, герметичные пневмошлюзы и дарк-синтвейв радио.",
+    "category": "sounds",
+    "tags": [
+        "sound",
+        "audio",
+        "scifi",
+        "tactical",
+        "cyberpunk",
+        "futuristic",
+        "exoskeleton"
+    ],
+    "icon": "icon.png",
+    "is_enabled": true,
+    "is_official": true,
+    "downloads_count": 480,
+    "rating": 5.0,
+    "sounds": {
+        "ui/audio/buttonclick.wav": {
+            "file": "sounds/cybertac_click.wav",
+            "volume_db": -1.5,
+            "pitch_scale": 1.0,
+            "original_target": "ui/audio/buttonclick.wav"
+        },
+        "ui/audio/buttonclickrelease.wav": {
+            "file": "sounds/cybertac_confirm.wav",
+            "volume_db": -1.5,
+            "pitch_scale": 1.0,
+            "original_target": "ui/audio/buttonclickrelease.wav"
+        },
+        "ui/audio/buttonrollover.wav": {
+            "file": "sounds/cybertac_hover.wav",
+            "volume_db": -3.0,
+            "pitch_scale": 1.0,
+            "original_target": "ui/audio/buttonrollover.wav"
+        },
+        "ui/audio/warning.wav": {
+            "file": "sounds/cybertac_warning.wav",
+            "volume_db": -1.0,
+            "pitch_scale": 1.0,
+            "original_target": "ui/audio/warning.wav"
+        },
+        "стартовые асеты/audio/player/Player_player_footsteps_dirt1.wav": {
+            "file": "sounds/cybertac_step1.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/player/Player_player_footsteps_dirt1.wav"
+        },
+        "стартовые асеты/audio/player/Player_player_footsteps_dirt2.wav": {
+            "file": "sounds/cybertac_step2.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/player/Player_player_footsteps_dirt2.wav"
+        },
+        "стартовые асеты/audio/player/Player_player_footsteps_dirt3.wav": {
+            "file": "sounds/cybertac_step3.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/player/Player_player_footsteps_dirt3.wav"
+        },
+        "стартовые асеты/audio/player/Player_player_footsteps_dirt4.wav": {
+            "file": "sounds/cybertac_step4.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/player/Player_player_footsteps_dirt4.wav"
+        },
+        "стартовые асеты/audio/player/Player_player_pl_fallpain1.wav": {
+            "file": "sounds/cybertac_land.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/player/Player_player_pl_fallpain1.wav"
+        },
+        "стартовые асеты/audio/weapons/Player_weapons_gauss_fire1.wav": {
+            "file": "sounds/cybertac_plasma.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/weapons/Player_weapons_gauss_fire1.wav"
+        },
+        "стартовые асеты/audio/weapons/Player_weapons_irifle_irifle_fire2.wav": {
+            "file": "sounds/cybertac_tachyon.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/weapons/Player_weapons_irifle_irifle_fire2.wav"
+        },
+        "стартовые асеты/audio/items/ammo_pickup.wav": {
+            "file": "sounds/cybertac_nanite_sync.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/items/ammo_pickup.wav"
+        },
+        "стартовые асеты/audio/items/battery_pickup.wav": {
+            "file": "sounds/cybertac_power_cell.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/items/battery_pickup.wav"
+        },
+        "стартовые асеты/audio/items/flashlight1.wav": {
+            "file": "sounds/cybertac_piezo.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/items/flashlight1.wav"
+        },
+        "стартовые асеты/audio/vehicles/Player_vehicles_digger_grinder_loop1.wav": {
+            "file": "sounds/cybertac_drill.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/vehicles/Player_vehicles_digger_grinder_loop1.wav"
+        },
+        "prefabs/door/sounds/Player_doors_doormove3.wav": {
+            "file": "sounds/cybertac_airlock_slide.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "prefabs/door/sounds/Player_doors_doormove3.wav"
+        },
+        "prefabs/door/sounds/door_close_slam.wav": {
+            "file": "sounds/cybertac_airlock_slam.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "prefabs/door/sounds/door_close_slam.wav"
+        },
+        "music/vinyl_space_guitar.wav": {
+            "file": "sounds/cybertac_synthwave.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "music/vinyl_space_guitar.wav"
+        },
+        "music/cosmic_horizon.ogg": {
+            "file": "sounds/cybertac_dark_ambient.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "music/cosmic_horizon.ogg"
+        }
+    }
+}
