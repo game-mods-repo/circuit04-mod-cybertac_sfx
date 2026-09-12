@@ -80,11 +80,23 @@
             "pitch_scale": 1.0,
             "original_target": "стартовые асеты/audio/weapons/Player_weapons_gauss_fire1.wav"
         },
+        "стартовые асеты/audio/weapons/Player_weapons_physcannon_superphys_launch1.wav": {
+            "file": "sounds/cybertac_plasma.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/weapons/Player_weapons_physcannon_superphys_launch1.wav"
+        },
         "стартовые асеты/audio/weapons/Player_weapons_irifle_irifle_fire2.wav": {
             "file": "sounds/cybertac_tachyon.wav",
             "volume_db": 0.0,
             "pitch_scale": 1.0,
             "original_target": "стартовые асеты/audio/weapons/Player_weapons_irifle_irifle_fire2.wav"
+        },
+        "стартовые асеты/audio/weapons/Player_weapons_physcannon_superphys_launch2.wav": {
+            "file": "sounds/cybertac_tachyon.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/weapons/Player_weapons_physcannon_superphys_launch2.wav"
         },
         "стартовые асеты/audio/items/ammo_pickup.wav": {
             "file": "sounds/cybertac_nanite_sync.wav",
@@ -110,6 +122,12 @@
             "pitch_scale": 1.0,
             "original_target": "стартовые асеты/audio/vehicles/Player_vehicles_digger_grinder_loop1.wav"
         },
+        "стартовые асеты/audio/buttons/Player_buttons_lightswitch2.wav": {
+            "file": "sounds/cybertac_click.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/buttons/Player_buttons_lightswitch2.wav"
+        },
         "prefabs/door/sounds/Player_doors_doormove3.wav": {
             "file": "sounds/cybertac_airlock_slide.wav",
             "volume_db": 0.0,
@@ -121,6 +139,36 @@
             "volume_db": 0.0,
             "pitch_scale": 1.0,
             "original_target": "prefabs/door/sounds/door_close_slam.wav"
+        },
+        "prefabs/door/sounds/door_start.wav": {
+            "file": "sounds/cybertac_airlock_slide.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "prefabs/door/sounds/door_start.wav"
+        },
+        "prefabs/door/sounds/door_stop.wav": {
+            "file": "sounds/cybertac_airlock_slam.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "prefabs/door/sounds/door_stop.wav"
+        },
+        "стартовые асеты/audio/doors/Player_doors_doormove3.wav": {
+            "file": "sounds/cybertac_airlock_slide.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/doors/Player_doors_doormove3.wav"
+        },
+        "стартовые асеты/audio/doors/door_close_slam.wav": {
+            "file": "sounds/cybertac_airlock_slam.wav",
+            "volume_db": 0.0,
+            "pitch_scale": 1.0,
+            "original_target": "стартовые асеты/audio/doors/door_close_slam.wav"
+        },
+        "music/vinyl_space_guitar.ogg": {
+            "file": "sounds/cybertac_synthwave.wav",
+            "volume_db": -2.0,
+            "pitch_scale": 1.0,
+            "original_target": "music/vinyl_space_guitar.ogg"
         },
         "music/vinyl_space_guitar.wav": {
             "file": "sounds/cybertac_synthwave.wav",
